@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nikhil7168
 - 👀 I’m interested in HTML|CSS|JAVASCRIPT
 - 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Email: nrai7168@gmail.com
 
 <!---
