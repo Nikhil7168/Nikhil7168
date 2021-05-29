@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Nikhil7168
+- 👋 Hi, I’m Nikhil Rai
 - 👀 I’m interested in HTML|CSS|JAVASCRIPT
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently learning M.E.R.N
 - 📫 How to reach me ... Email: nrai7168@gmail.com
 
 <!---
